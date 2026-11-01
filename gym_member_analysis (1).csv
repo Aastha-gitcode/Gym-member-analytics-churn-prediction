@@ -1,0 +1,301 @@
+id,first_name,last_name,email,phone,signup_date,plan_id,location_id,is_active,cancel_date,cancel_reason,total_visits,plan_name,price,share,location_name,capacity,has_pool,churn
+1,Tyler,Stone,johnsonjoshua@example.org,(518)519-6001,2023-09-13,3,3,True,,,123.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,0
+2,Marcus,Walsh,hoffmanjennifer@example.net,+1-763-679-4026,2023-09-02,4,3,False,2023-12-31,Health issues,30.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,1
+3,Olivia,Fox,jasongallagher@example.org,361-855-9407,2024-09-20,1,3,True,,,14.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+4,Luna,Walsh,arnoldmaria@example.net,(993)710-3413x164,2024-01-14,2,1,False,2024-11-09,Dissatisfied with facilities,67.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+5,Ava,Gray,mitchellclark@example.com,001-719-228-3276x483,2024-08-08,2,3,True,,,39.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+6,Brandon,Webb,lydiatrujillo@example.com,513-695-3767x242,2024-06-17,2,2,False,2024-09-15,Not using enough,21.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+7,Jake,Rivera,zhurst@example.com,828.371.0122,2024-03-07,1,3,True,,,82.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+8,Marcus,Gray,djames@example.net,280-618-4514x627,2024-01-01,2,3,True,,,84.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+9,Derek,Cooper,williamrodriguez@example.net,289-332-5288x0957,2024-02-20,3,1,True,,,78.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+10,Marcus,Gray,natasha43@example.org,991.417.1822,2023-09-22,3,1,False,2024-01-20,Health issues,28.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+11,Ryan,Torres,allison96@example.org,+1-534-565-7871,2023-02-19,2,1,False,2023-08-18,Financial reasons,43.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+12,Olivia,Burns,morganbrianna@example.org,001-330-510-3105,2023-09-14,2,3,False,2024-05-11,Found another gym,73.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,1
+13,Kevin,Reeves,elizabeth38@example.org,001-899-973-7631x1656,2023-11-09,1,2,False,2024-08-05,Financial reasons,57.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+14,Ryan,Cole,nuneztracey@example.org,4658133387,2024-10-11,1,1,True,,,20.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+15,Brandon,Cooper,joshuawright@example.org,581.808.0132x677,2023-11-08,1,1,True,,,89.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+16,Marcus,Brooks,martinaaron@example.com,274-768-7234x309,2023-02-27,4,3,False,2023-12-24,Financial reasons,65.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,1
+17,Emma,Gray,williamsthomas@example.net,(808)312-1913,2024-01-28,2,1,True,,,91.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+18,Kevin,Morgan,bethwilliams@example.org,(799)385-4353x46247,2024-08-15,5,1,False,2024-09-14,Health issues,13.0,Student,19.99,0.08,IronFit Downtown,150,True,1
+19,Ava,Reed,ellisyolanda@example.org,783-684-2513,2023-01-18,2,1,False,2023-07-17,Switched to home workouts,53.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+20,Luna,Stone,samueldaniels@example.com,+1-680-684-1241x182,2024-10-13,2,1,True,,,13.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+21,Jake,Morgan,jenniferharris@example.net,687-440-1640x052,2023-03-26,3,2,False,2024-10-16,Schedule doesn't work,143.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,1
+22,Mia,Morgan,barnold@example.net,4118280598,2024-01-05,3,3,False,2024-06-03,Found another gym,43.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,1
+23,Olivia,Cole,bobbydiaz@example.org,(833)215-8692x322,2023-02-18,2,2,False,2023-03-20,Moving out of area,12.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+24,Chris,Burns,jillcook@example.com,+1-534-221-6073x37543,2024-01-15,1,2,False,2024-02-14,Switched to home workouts,9.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+25,Ava,Walsh,raymondramirez@example.org,001-345-886-8501x42940,2024-11-09,3,3,True,,,4.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,0
+26,Emma,Price,jessica56@example.net,316.793.4060x88356,2023-01-10,4,2,True,,,176.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,0
+27,Jake,Reed,elizabeth14@example.net,665-864-8236x6299,2023-09-17,4,3,True,,,114.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,0
+28,Luna,Rivera,torresjason@example.net,+1-757-377-3872x148,2023-07-04,2,2,True,,,157.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+29,Brandon,Fox,emilywalker@example.org,(500)837-9176,2023-02-27,5,1,False,2024-08-20,Moving out of area,120.0,Student,19.99,0.08,IronFit Downtown,150,True,1
+30,Sophia,Brooks,jross@example.net,001-901-463-2870x831,2023-02-24,2,1,False,2024-04-19,Not using enough,110.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+31,Jake,Morgan,jcontreras@example.net,979-586-8727x74348,2024-01-23,4,1,False,2024-03-23,Moving out of area,7.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,1
+32,Chris,Torres,scott43@example.com,958-812-2362x31665,2024-07-02,1,1,True,,,22.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+33,Sophia,Cole,clarkrobert@example.net,001-509-967-0546x688,2023-01-02,2,2,False,2023-12-28,Schedule doesn't work,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+34,Zoe,Gray,joshuatucker@example.com,462-972-9806x99016,2023-09-11,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+35,Brandon,Gray,brentgray@example.org,755.564.6417x080,2023-01-27,1,1,False,2023-10-24,Not using enough,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+36,Derek,Reed,harringtondenise@example.org,530.992.3271,2024-01-14,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+37,Brandon,Burns,katie29@example.net,001-512-341-9049x6631,2023-05-26,3,1,False,2024-05-20,Not using enough,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+38,Sophia,Walsh,melissa91@example.net,8589651850,2023-10-20,3,1,False,2024-09-14,Schedule doesn't work,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+39,Ava,Brooks,hamiltonmichael@example.com,001-626-728-4987x769,2023-01-15,4,3,False,2024-03-10,Switched to home workouts,0.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,1
+40,Mia,Reed,mariahmiller@example.com,479.996.5075,2023-02-28,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+41,Zoe,Fox,michaelgreen@example.com,+1-948-908-3136x783,2024-03-18,1,2,False,2024-06-16,Health issues,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+42,Tyler,Torres,fmcguire@example.com,763.849.5788,2024-02-13,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+43,Mia,Walsh,michael74@example.com,631-335-1823x374,2024-01-25,2,2,False,2024-10-21,Health issues,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+44,Sophia,Cooper,kennethward@example.com,9823400842,2024-05-25,5,2,True,,,0.0,Student,19.99,0.08,IronFit Eastside,100,False,0
+45,Sophia,Reed,andrewstaylor@example.com,620-347-1167x19022,2023-03-11,3,1,False,2023-09-07,Switched to home workouts,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+46,Luna,Torres,davidduran@example.net,+1-293-386-7749x649,2023-10-18,2,1,False,2023-11-17,Schedule doesn't work,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+47,Luna,Burns,colleenbaker@example.org,(932)681-2067,2024-11-08,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+48,Emma,Reeves,halljasmine@example.net,413.349.3618x324,2024-02-13,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+49,Sophia,Gray,martinkyle@example.net,001-947-917-4648,2024-12-21,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+50,Brandon,Webb,georgepamela@example.net,994-601-3990x49027,2023-01-03,1,1,False,2023-02-02,Not using enough,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+51,Luna,Reeves,wendygraham@example.com,875-965-5125,2023-02-18,5,3,True,,,0.0,Student,19.99,0.08,IronFit Pearl District,120,True,0
+52,Marcus,Torres,elaine68@example.org,215.545.1680x876,2024-10-19,3,2,True,,,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,0
+53,Jake,Brooks,cindy77@example.org,548.424.7710,2023-12-19,2,1,False,2024-03-18,Moving out of area,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+54,Emma,Stone,andrea86@example.org,817.912.7484,2023-01-08,1,2,False,2023-02-07,Dissatisfied with facilities,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+55,Tyler,Reed,jsanchez@example.org,(639)982-1465x8404,2024-01-11,1,3,False,2024-04-10,Not using enough,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+56,Brandon,Burns,seanwashington@example.com,+1-586-875-3396,2023-10-04,2,2,False,2024-10-28,Found another gym,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+57,Zoe,Morgan,floresthomas@example.com,(227)402-8951x7187,2023-01-20,1,1,False,2023-02-19,Switched to home workouts,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+58,Chris,Gray,jpitts@example.org,345.596.1586x5780,2023-01-20,1,2,False,2023-05-20,Not using enough,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+59,Sophia,Stone,wendy16@example.org,001-517-824-0050x45562,2024-01-18,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+60,Zoe,Cooper,georgemiller@example.com,+1-637-492-3747x407,2023-01-09,1,2,False,2024-03-04,Moving out of area,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+61,Brandon,Reeves,alexandermichael@example.net,664-674-3671x3695,2024-12-11,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+62,Kevin,Morgan,spencedominique@example.com,5905974395,2023-07-21,2,1,False,2023-11-18,Moving out of area,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+63,Jake,Walsh,erica21@example.net,+1-504-470-9521x4562,2023-11-07,3,1,False,2024-08-03,Health issues,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+64,Luna,Cole,alyssa42@example.com,245.617.1236x8516,2023-05-27,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+65,Ryan,Webb,gibsonemily@example.net,596-351-3709x859,2024-10-15,1,1,False,2024-12-14,Financial reasons,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+66,Tyler,Cooper,tblankenship@example.net,(712)800-4711x38267,2024-09-11,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+67,Olivia,Gray,nicolepena@example.com,+1-764-205-3773x515,2023-11-17,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+68,Mia,Gray,hhill@example.com,539-300-5329,2023-04-15,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+69,Kevin,Price,brendali@example.org,729-504-2284x21020,2023-02-05,4,2,True,,,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,0
+70,Luna,Rivera,alfred40@example.org,001-568-211-7758x9178,2024-01-07,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+71,Emma,Price,stephen00@example.com,(761)877-1159x2124,2023-01-16,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+72,Brandon,Morgan,shawn96@example.org,001-318-736-7365x766,2024-01-18,1,3,False,2024-03-18,Moving out of area,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+73,Brandon,Price,qedwards@example.com,(471)211-1615,2023-07-05,1,3,False,2024-05-30,Switched to home workouts,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+74,Ava,Walsh,elizabeth65@example.net,001-360-749-4519x83273,2024-09-25,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+75,Mia,Reed,danny49@example.org,(289)498-0940x24455,2024-03-21,3,2,True,,,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,0
+76,Marcus,Price,ashleymorales@example.org,001-301-283-6675x2545,2023-08-19,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+77,Kevin,Torres,ericwilliamson@example.net,547-367-9764,2024-02-18,2,2,False,2024-03-19,Schedule doesn't work,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+78,Tyler,Price,russell49@example.com,740.336.9003x43244,2024-11-11,5,2,True,,,0.0,Student,19.99,0.08,IronFit Eastside,100,False,0
+79,Tyler,Burns,jimenezryan@example.org,(783)888-5160x6071,2023-06-13,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+80,Luna,Stone,amckinney@example.com,860-352-9751,2023-01-02,3,2,False,2023-03-03,Schedule doesn't work,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,1
+81,Marcus,Torres,ryanmorales@example.org,(745)435-2181x8835,2024-03-04,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+82,Kevin,Price,curtisscott@example.org,+1-721-427-7997x995,2023-10-04,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+83,Tyler,Morgan,cjones@example.net,649-305-8147x7005,2024-10-23,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+84,Emma,Torres,gilbertwilliam@example.com,001-480-279-3597,2023-11-14,4,3,False,2024-04-12,Moving out of area,0.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,1
+85,Brandon,Brooks,vgarcia@example.net,482-703-7788,2023-09-10,4,2,True,,,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,0
+86,Ryan,Cole,samantha66@example.com,+1-390-451-5186x44925,2024-01-27,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+87,Jake,Cole,kyle62@example.net,001-214-786-5281x685,2023-01-14,1,2,False,2023-07-13,Health issues,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+88,Jake,Brooks,henry35@example.com,232.721.4188,2023-05-17,2,1,False,2024-03-12,Dissatisfied with facilities,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+89,Chris,Gray,carlamoore@example.org,001-592-570-6537x947,2024-11-22,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+90,Olivia,Brooks,tammy73@example.com,+1-297-974-6886x23924,2023-11-10,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+91,Brandon,Cooper,angela18@example.org,812-247-8261x3750,2023-07-23,5,3,False,2024-06-17,Financial reasons,0.0,Student,19.99,0.08,IronFit Pearl District,120,True,1
+92,Marcus,Price,pshaw@example.com,253-605-1522,2024-12-10,4,3,True,,,0.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,0
+93,Olivia,Reeves,ihorton@example.net,379.601.0432x8986,2024-05-14,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+94,Zoe,Reed,kevinwilliams@example.com,+1-697-811-7980x8932,2023-03-11,3,2,True,,,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,0
+95,Ava,Cooper,mendezjohn@example.com,(218)851-8888,2024-01-19,2,1,False,2024-03-19,Switched to home workouts,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+96,Luna,Webb,ywilliams@example.com,705-415-3195x205,2024-08-03,3,1,False,2024-12-01,Health issues,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+97,Tyler,Gray,epollard@example.net,(221)770-4303,2023-11-10,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+98,Brandon,Fox,zachary87@example.com,8348505415,2024-06-14,3,3,True,,,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,0
+99,Kevin,Torres,ykline@example.com,(877)458-4161,2023-11-09,2,2,False,2024-05-07,Found another gym,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+100,Kevin,Rivera,manuel15@example.net,647-296-2757x0596,2023-05-13,1,1,False,2024-06-06,Financial reasons,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+101,Tyler,Webb,lambertrichard@example.net,001-220-429-7021x3556,2023-12-28,3,2,False,2024-02-26,Not using enough,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,1
+102,Kevin,Burns,xrush@example.com,001-819-328-5654x31027,2023-10-08,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+103,Tyler,Reeves,kimberly73@example.net,673-612-1727x1551,2024-12-11,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+104,Derek,Reed,jenniferho@example.net,(258)731-3237,2024-06-07,3,3,True,,,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,0
+105,Marcus,Burns,tanner82@example.net,314-467-8669,2023-09-06,3,3,False,2023-10-06,Not using enough,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,1
+106,Olivia,Morgan,dawn77@example.net,452.489.2268x01824,2023-12-06,2,2,False,2024-03-05,Switched to home workouts,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+107,Luna,Morgan,sarah35@example.net,414-438-4249x8182,2023-01-05,4,2,True,,,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,0
+108,Brandon,Stone,megan90@example.org,909-643-9690,2023-01-15,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+109,Mia,Brooks,timothy64@example.com,402-776-7735,2024-08-20,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+110,Chris,Morgan,jessica56@example.org,001-258-681-5371x47321,2023-09-11,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+111,Kevin,Walsh,alin@example.org,(959)653-2787,2023-02-11,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+112,Mia,Gray,zjohnson@example.net,233.395.0047x974,2023-11-18,4,2,False,2024-07-15,Health issues,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,1
+113,Chris,Walsh,qanderson@example.net,(365)806-0983x584,2024-03-14,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+114,Kevin,Walsh,rduran@example.net,+1-891-221-6558x52398,2024-07-08,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+115,Marcus,Cole,williamsjennifer@example.com,772.998.2595x26949,2024-10-12,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+116,Sophia,Fox,thomas05@example.com,+1-916-494-0974x99309,2024-01-26,4,2,True,,,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,0
+117,Sophia,Morgan,rhernandez@example.org,8915307562,2024-06-01,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+118,Ava,Gray,nshaw@example.com,001-702-783-8578x6527,2023-03-06,4,2,True,,,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,0
+119,Jake,Reed,chelsea33@example.com,+1-743-644-3757,2024-01-12,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+120,Ryan,Webb,david86@example.com,(624)604-1574x733,2023-09-18,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+121,Mia,Brooks,danielyang@example.org,908.333.0165,2024-02-26,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+122,Brandon,Brooks,adampierce@example.org,(877)434-5401x93802,2024-03-03,1,2,False,2024-12-28,Dissatisfied with facilities,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+123,Olivia,Torres,osbornrandy@example.com,(640)904-9915,2024-09-17,1,2,False,2024-12-16,Dissatisfied with facilities,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+124,Olivia,Webb,ismall@example.net,543.415.2742x054,2024-01-27,1,2,False,2024-09-23,Dissatisfied with facilities,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+125,Tyler,Brooks,gwilcox@example.com,661-822-7530,2024-09-11,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+126,Sophia,Webb,seanadams@example.com,699-304-5301x7426,2024-11-02,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+127,Emma,Reed,michael33@example.org,927.795.6878x3391,2024-11-24,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+128,Chris,Walsh,starkdaniel@example.net,939.282.2587x13971,2023-01-02,1,3,False,2023-02-01,Health issues,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+129,Ava,Fox,aanderson@example.com,001-508-374-0640,2024-09-17,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+130,Sophia,Stone,hendersonisabella@example.net,7178046226,2023-04-10,3,3,True,,,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,0
+131,Brandon,Reed,ykane@example.com,482-551-2868,2023-08-19,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+132,Ava,Torres,avilatiffany@example.com,+1-886-286-3375x24310,2023-05-03,5,2,False,2023-11-29,Found another gym,0.0,Student,19.99,0.08,IronFit Eastside,100,False,1
+133,Brandon,Stone,jamiegarcia@example.org,690.530.6738x302,2024-09-20,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+134,Ava,Reeves,barbara53@example.com,(483)864-4089,2024-02-09,3,2,True,,,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,0
+135,Brandon,Cole,wwilliams@example.net,+1-668-456-6246x28733,2024-12-04,3,2,True,,,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,0
+136,Tyler,Reed,jmelendez@example.com,(588)226-3435x17518,2023-01-19,1,3,False,2024-12-09,Switched to home workouts,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+137,Jake,Burns,nicholas99@example.org,239-583-7354,2023-08-05,1,1,False,2023-10-04,Moving out of area,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+138,Chris,Stone,suzannewilson@example.com,993.763.8546,2024-01-07,2,2,False,2024-02-06,Found another gym,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+139,Emma,Rivera,jose87@example.com,575-435-5609,2023-01-26,4,2,False,2024-01-21,Health issues,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,1
+140,Sophia,Reeves,greensarah@example.net,001-664-923-5369x3785,2023-09-10,3,2,False,2024-06-06,Dissatisfied with facilities,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,1
+141,Tyler,Cole,umurray@example.com,(328)272-8080,2023-03-13,4,2,False,2023-06-11,Switched to home workouts,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,1
+142,Derek,Fox,gutierrezmegan@example.org,920-938-7509,2023-12-25,5,3,True,,,0.0,Student,19.99,0.08,IronFit Pearl District,120,True,0
+143,Mia,Cole,smithandrea@example.org,3843840862,2023-10-21,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+144,Tyler,Burns,johnharvey@example.com,(246)315-6793x341,2024-02-19,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+145,Tyler,Torres,jgray@example.com,2025176591,2024-04-08,1,2,False,2024-10-05,Health issues,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+146,Derek,Stone,rachelschwartz@example.net,440.814.8902x5039,2023-04-04,2,1,False,2023-05-04,Not using enough,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+147,Mia,Walsh,evansanne@example.net,(785)862-1850x1631,2024-03-22,1,1,False,2024-11-17,Schedule doesn't work,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+148,Ryan,Stone,anthony47@example.com,658.566.2961,2023-03-10,3,3,False,2023-04-09,Switched to home workouts,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,1
+149,Brandon,Webb,millereric@example.net,+1-426-355-1104x7541,2023-09-22,3,3,False,2023-12-21,Not using enough,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,1
+150,Jake,Price,ryanhawkins@example.net,(810)315-8199x56046,2023-01-16,5,1,True,,,0.0,Student,19.99,0.08,IronFit Downtown,150,True,0
+151,Jake,Cooper,ashleyjackson@example.com,(824)644-7212,2023-12-15,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+152,Ryan,Brooks,yevans@example.org,(843)779-9371x240,2024-01-17,1,3,False,2024-03-17,Moving out of area,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+153,Zoe,Stone,vbrock@example.com,969-524-5937x52654,2023-09-09,5,3,False,2024-08-04,Moving out of area,0.0,Student,19.99,0.08,IronFit Pearl District,120,True,1
+154,Olivia,Price,nicholas65@example.org,001-939-682-8073,2023-01-08,1,2,False,2023-02-07,Not using enough,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+155,Jake,Brooks,fuenteslaura@example.com,+1-872-843-4266x17979,2023-01-12,1,2,False,2023-03-13,Health issues,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+156,Mia,Reed,gibbsmichael@example.net,+1-311-235-2909x656,2024-09-06,5,1,True,,,0.0,Student,19.99,0.08,IronFit Downtown,150,True,0
+157,Luna,Reed,greenwilliam@example.net,+1-499-737-5679,2024-10-22,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+158,Derek,Walsh,webbkenneth@example.org,725-945-7387,2024-01-27,3,1,False,2024-03-27,Moving out of area,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+159,Chris,Cooper,kimheather@example.com,440-410-5123,2024-10-15,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+160,Zoe,Gray,anita73@example.com,+1-522-566-0937x9660,2023-04-28,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+161,Kevin,Rivera,karen19@example.org,+1-725-853-7147,2024-01-09,1,2,False,2024-03-09,Not using enough,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+162,Emma,Gray,wmatthews@example.com,392.449.9125x134,2024-01-21,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+163,Zoe,Reed,heather86@example.com,+1-629-466-2782x827,2024-01-05,2,1,False,2024-04-04,Dissatisfied with facilities,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+164,Luna,Torres,leonardhayes@example.org,(907)923-6887x676,2024-11-10,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+165,Jake,Reed,christopherjohnson@example.org,304-638-4279x7881,2024-01-25,3,1,False,2024-02-24,Health issues,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+166,Ryan,Stone,amber07@example.net,361.934.0745,2024-02-19,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+167,Olivia,Reeves,rowejoel@example.net,001-259-762-9233,2023-01-11,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+168,Sophia,Reeves,candice25@example.net,449-748-1260x4223,2023-10-24,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+169,Zoe,Cooper,kathleenlowe@example.com,(694)766-7116,2023-02-18,1,1,False,2023-03-20,Schedule doesn't work,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+170,Luna,Gray,uclements@example.net,5179518636,2024-09-09,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+171,Ava,Cole,marcus45@example.net,001-229-375-0017,2024-04-18,5,3,True,,,0.0,Student,19.99,0.08,IronFit Pearl District,120,True,0
+172,Emma,Reed,scottsmith@example.com,724.424.1541,2023-01-01,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+173,Chris,Cole,sanderskevin@example.net,001-236-211-0371x29387,2023-01-16,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+174,Jake,Price,lisa62@example.com,436-811-1554,2023-07-13,4,3,False,2023-10-11,Moving out of area,0.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,1
+175,Tyler,Reeves,darlenebyrd@example.org,390.492.7532x69731,2023-12-22,3,1,False,2024-04-20,Moving out of area,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+176,Zoe,Webb,lawrencepatrick@example.com,523-841-3899x94043,2023-12-12,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+177,Marcus,Stone,debbie37@example.com,437-891-8055,2023-03-26,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+178,Brandon,Burns,rdiaz@example.org,001-871-809-1043x00684,2024-04-11,1,3,False,2024-09-08,Found another gym,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+179,Ava,Reed,imiller@example.net,+1-324-614-1832x856,2024-07-17,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+180,Emma,Fox,pblair@example.org,416.317.9904,2024-05-08,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+181,Olivia,Rivera,zimmermanjacqueline@example.org,658.384.2524x1056,2024-10-13,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+182,Sophia,Morgan,jennifer91@example.com,385.507.9252x419,2024-03-06,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+183,Kevin,Walsh,williamsmichelle@example.org,5757622086,2024-11-02,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+184,Ryan,Burns,robertcortez@example.com,295-818-0238,2023-05-23,3,3,True,,,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,0
+185,Zoe,Gray,wileymichelle@example.com,918-570-5349x49375,2024-07-11,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+186,Chris,Gray,edwardrandolph@example.org,585.505.0641,2024-01-20,2,1,False,2024-03-20,Dissatisfied with facilities,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+187,Sophia,Brooks,dvasquez@example.org,001-441-803-8657x191,2023-05-15,1,2,False,2024-06-08,Financial reasons,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+188,Derek,Reed,vargasbryan@example.net,(634)545-6557,2024-01-13,3,1,False,2024-05-12,Schedule doesn't work,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+189,Sophia,Fox,hardingderek@example.net,721-527-7561,2024-08-11,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+190,Brandon,Cole,qparker@example.org,524-790-3521,2023-10-04,1,3,False,2024-02-01,Health issues,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+191,Chris,Price,rpalmer@example.com,320-267-8831x712,2023-01-10,2,3,False,2023-04-10,Dissatisfied with facilities,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,1
+192,Marcus,Torres,greertoni@example.org,365.519.9410,2023-11-11,5,2,False,2024-05-09,Moving out of area,0.0,Student,19.99,0.08,IronFit Eastside,100,False,1
+193,Zoe,Cole,flamb@example.com,207-802-9667,2024-02-18,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+194,Brandon,Stone,nthompson@example.org,947-220-9993x476,2024-01-27,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+195,Luna,Torres,ramirezderrick@example.org,+1-783-880-6578x7598,2023-10-06,3,3,True,,,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,0
+196,Olivia,Walsh,hector59@example.org,3405785932,2023-01-16,4,3,True,,,0.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,0
+197,Ryan,Rivera,josephvelasquez@example.net,7397652239,2024-02-21,1,2,False,2024-10-18,Health issues,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+198,Kevin,Fox,warnermichael@example.net,001-229-337-8427,2024-11-19,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+199,Mia,Webb,halljeffery@example.net,405.393.2525x0029,2024-04-09,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+200,Tyler,Morgan,susan56@example.net,454-752-2675,2024-01-15,4,2,False,2024-10-11,Schedule doesn't work,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,1
+201,Ryan,Brooks,elizabetholsen@example.com,542-320-9690x2959,2023-02-16,2,3,False,2024-03-12,Financial reasons,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,1
+202,Mia,Fox,vtaylor@example.org,555.521.5704,2024-09-04,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+203,Tyler,Morgan,bellkristin@example.net,7068762676,2024-05-22,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+204,Kevin,Gray,poolekristina@example.net,+1-432-871-0405x4115,2024-10-05,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+205,Ava,Reed,jessicapayne@example.org,599-870-6296x20153,2023-02-14,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+206,Zoe,Brooks,donna43@example.org,8693872050,2023-02-17,1,3,False,2023-04-18,Financial reasons,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+207,Marcus,Walsh,madison97@example.org,803-924-1714,2023-01-20,2,2,False,2024-12-10,Not using enough,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+208,Chris,Reed,qjacobson@example.org,+1-686-525-6527x0477,2023-04-22,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+209,Sophia,Cole,anne21@example.org,+1-558-969-3806x86879,2024-03-09,1,3,False,2024-06-07,Found another gym,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+210,Emma,Morgan,christian08@example.net,899.521.7223x32061,2023-01-04,2,1,False,2023-02-03,Health issues,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+211,Ryan,Rivera,maryscott@example.net,916-286-8548,2023-01-09,2,1,False,2023-03-10,Found another gym,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+212,Olivia,Webb,jrodriguez@example.org,001-799-811-9148,2023-01-04,5,2,False,2023-04-04,Health issues,0.0,Student,19.99,0.08,IronFit Eastside,100,False,1
+213,Ryan,Gray,patrick79@example.net,202.946.2996x0653,2024-01-16,2,2,False,2024-03-16,Found another gym,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+214,Zoe,Morgan,penny05@example.com,547-913-2475x4691,2024-08-11,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+215,Tyler,Fox,robinrussell@example.com,001-485-508-2148x62890,2023-04-19,1,1,False,2023-05-19,Dissatisfied with facilities,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+216,Luna,Price,marywright@example.com,2535457861,2023-12-25,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+217,Sophia,Fox,tracy72@example.com,001-885-252-4140,2023-01-19,5,1,False,2024-06-12,Not using enough,0.0,Student,19.99,0.08,IronFit Downtown,150,True,1
+218,Kevin,Rivera,melissachan@example.org,433.446.8007,2024-10-26,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+219,Mia,Burns,walkercharlene@example.com,001-846-365-7437x489,2024-02-09,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+220,Ryan,Reeves,hunteileen@example.com,+1-699-744-1715,2024-01-08,1,3,False,2024-02-07,Financial reasons,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+221,Tyler,Walsh,jose43@example.org,230.596.5207x44666,2024-01-17,4,3,True,,,0.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,0
+222,Luna,Brooks,jessica38@example.net,458.742.8241x7248,2024-01-19,1,2,False,2024-02-18,Dissatisfied with facilities,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+223,Tyler,Walsh,walkerjeffrey@example.com,(955)549-4717x09991,2024-11-09,3,2,True,,,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,0
+224,Tyler,Morgan,dillonpatrick@example.com,(702)423-5697x25217,2023-01-27,1,2,False,2024-06-20,Found another gym,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+225,Chris,Torres,cynthia07@example.com,829.827.1296,2023-07-07,3,3,True,,,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,0
+226,Ryan,Reed,ysanford@example.org,2835505830,2024-02-09,2,2,False,2024-07-08,Health issues,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+227,Olivia,Brooks,heathercooper@example.org,668-994-2104,2024-09-23,4,2,True,,,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,0
+228,Sophia,Reed,ryan25@example.com,(432)360-3323x098,2024-01-07,3,3,False,2024-12-02,Dissatisfied with facilities,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,1
+229,Luna,Torres,jennifer06@example.net,889-309-0100x167,2023-03-05,5,1,True,,,0.0,Student,19.99,0.08,IronFit Downtown,150,True,0
+230,Derek,Gray,thomas23@example.net,+1-304-661-8499x26189,2023-01-08,1,2,False,2023-07-07,Not using enough,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+231,Marcus,Reeves,glovertyler@example.net,948.535.6420,2023-10-22,3,1,False,2024-09-16,Found another gym,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+232,Zoe,Walsh,arivera@example.org,+1-611-997-2181x14374,2023-03-12,1,1,False,2024-11-01,Financial reasons,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+233,Ryan,Reed,garciagregg@example.org,655-361-1002x2557,2023-01-11,5,3,False,2023-04-11,Not using enough,0.0,Student,19.99,0.08,IronFit Pearl District,120,True,1
+234,Kevin,Gray,lisa21@example.com,(974)967-6212x0216,2024-09-05,1,1,False,2024-11-04,Financial reasons,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,1
+235,Sophia,Cooper,cherylmaxwell@example.net,6277716701,2023-08-20,2,2,False,2024-05-16,Moving out of area,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+236,Luna,Brooks,busherica@example.net,001-593-958-8916,2023-01-18,3,2,False,2023-04-18,Dissatisfied with facilities,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,1
+237,Tyler,Cole,elizabeth62@example.net,+1-700-628-7721x753,2023-01-10,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+238,Tyler,Burns,hunterandrea@example.com,(231)377-9717x7517,2024-02-16,4,1,False,2024-07-15,Found another gym,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,1
+239,Derek,Price,jgutierrez@example.net,7197948837,2023-01-08,1,2,False,2023-02-07,Financial reasons,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+240,Jake,Price,velasquezmegan@example.com,+1-299-775-7113,2023-04-03,1,2,False,2024-06-26,Financial reasons,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+241,Brandon,Torres,maria48@example.net,(310)827-2614x933,2023-01-24,3,2,False,2023-03-25,Financial reasons,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,1
+242,Mia,Burns,stephenharrington@example.net,216-809-1779x82708,2024-09-10,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+243,Zoe,Cooper,xglass@example.org,001-592-621-6995x866,2024-01-14,1,2,False,2024-04-13,Not using enough,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+244,Brandon,Walsh,sstuart@example.com,(526)598-4858,2024-01-09,5,1,False,2024-11-04,Switched to home workouts,0.0,Student,19.99,0.08,IronFit Downtown,150,True,1
+245,Brandon,Reeves,claudiaroberts@example.com,+1-622-888-5158x79968,2024-10-20,4,3,True,,,0.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,0
+246,Sophia,Morgan,millsanthony@example.org,6035424420,2023-12-07,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+247,Jake,Price,howardshaun@example.net,+1-283-286-3840x66658,2023-09-17,1,2,False,2023-10-17,Moving out of area,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+248,Chris,Cooper,james73@example.net,001-459-389-3347x212,2023-05-16,2,2,False,2024-07-09,Dissatisfied with facilities,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+249,Sophia,Walsh,rwilliams@example.net,222-694-0572x025,2023-05-05,1,2,False,2024-08-27,Switched to home workouts,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+250,Kevin,Gray,jtyler@example.com,858-832-8182,2023-11-21,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+251,Chris,Price,baileynicole@example.net,555-243-9878x01573,2023-01-18,3,1,False,2023-03-19,Moving out of area,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+252,Marcus,Morgan,patrick16@example.com,+1-240-685-8877,2024-02-25,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+253,Zoe,Rivera,lukemiller@example.org,(588)801-3361,2023-02-16,1,2,False,2023-05-17,Health issues,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+254,Jake,Morgan,burgesseric@example.com,001-650-811-0248x193,2023-11-01,3,3,False,2024-03-30,Moving out of area,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,1
+255,Jake,Rivera,zhayes@example.com,606-618-0919x01581,2024-09-28,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+256,Ava,Morgan,campbellsara@example.com,(207)428-3268x4245,2024-02-01,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+257,Ryan,Burns,williamsashley@example.com,+1-481-443-5368,2023-06-27,3,1,False,2024-03-23,Dissatisfied with facilities,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+258,Ava,Webb,jeffreydavenport@example.org,329-608-7814,2023-07-17,3,3,False,2024-01-13,Health issues,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,1
+259,Derek,Cole,gonzalezbeverly@example.com,(623)414-9135x775,2023-06-21,4,2,True,,,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,0
+260,Jake,Webb,lindsey62@example.org,333-464-5257x77547,2023-10-05,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+261,Kevin,Cole,wilkinsonmichele@example.org,+1-834-511-0809,2024-01-28,4,2,True,,,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,0
+262,Mia,Brooks,arnoldamy@example.net,725.263.9427x8816,2024-12-06,4,1,True,,,0.0,Premium Annual,499.99,0.12,IronFit Downtown,150,True,0
+263,Brandon,Rivera,melaniedrake@example.net,+1-928-527-2299x27503,2023-09-09,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+264,Mia,Webb,bakerjim@example.net,385.667.7005,2023-10-09,4,2,False,2023-11-08,Moving out of area,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,1
+265,Sophia,Reed,beth92@example.com,+1-965-991-8463x8655,2024-11-09,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+266,Olivia,Reeves,shawdon@example.org,318.543.2225,2023-05-13,1,3,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,0
+267,Luna,Webb,ushepherd@example.org,477.439.2603x0299,2024-11-26,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+268,Chris,Stone,macdonalddylan@example.org,928-969-9041x379,2023-07-14,1,2,False,2024-01-10,Moving out of area,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+269,Olivia,Brooks,jeffreyjenkins@example.org,001-329-584-2579,2024-01-05,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+270,Sophia,Rivera,gcruz@example.org,288.362.9127,2024-11-06,3,2,True,,,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,0
+271,Sophia,Stone,olsondavid@example.net,+1-506-986-5086,2023-01-06,2,3,False,2024-08-28,Not using enough,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,1
+272,Jake,Cooper,zbell@example.net,001-591-262-4731x49864,2023-01-07,2,3,False,2023-03-08,Found another gym,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,1
+273,Derek,Torres,lanedavid@example.org,(735)665-1269x4486,2023-11-13,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+274,Mia,Fox,afischer@example.net,+1-772-858-8744,2023-11-23,3,2,True,,,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,0
+275,Brandon,Burns,melissahopkins@example.net,272.413.8658,2024-02-28,3,3,True,,,0.0,Basic Annual,299.99,0.2,IronFit Pearl District,120,True,0
+276,Brandon,Rivera,aoconnell@example.org,(379)261-1435,2023-05-03,3,2,True,,,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,0
+277,Chris,Morgan,zarias@example.net,+1-284-590-2770x3843,2023-09-14,3,1,False,2024-10-08,Switched to home workouts,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+278,Sophia,Reed,emilyward@example.net,5212465669,2024-06-16,3,2,False,2024-09-14,Not using enough,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,1
+279,Kevin,Fox,calhounandrea@example.net,+1-895-254-3937,2023-01-09,1,2,False,2024-06-02,Schedule doesn't work,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+280,Luna,Torres,gregory81@example.net,684-951-8489,2023-06-04,5,1,False,2024-02-29,Dissatisfied with facilities,0.0,Student,19.99,0.08,IronFit Downtown,150,True,1
+281,Ava,Gray,xhart@example.org,001-857-779-0714x16335,2024-08-08,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+282,Zoe,Fox,haynesjose@example.com,565-618-2755,2023-02-07,1,3,False,2023-11-04,Not using enough,0.0,Basic Monthly,29.99,0.35,IronFit Pearl District,120,True,1
+283,Ryan,Morgan,staceyvega@example.org,333.334.3333x9521,2024-02-16,2,1,False,2024-12-12,Financial reasons,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,1
+284,Kevin,Webb,waustin@example.net,4756957947,2024-03-01,4,2,False,2024-05-30,Schedule doesn't work,0.0,Premium Annual,499.99,0.12,IronFit Eastside,100,False,1
+285,Derek,Gray,kwalker@example.org,4869780856,2024-10-12,1,1,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Downtown,150,True,0
+286,Kevin,Morgan,wolfesteve@example.net,6034691559,2024-11-21,2,1,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Downtown,150,True,0
+287,Marcus,Price,joel79@example.com,(427)563-6556x472,2024-01-22,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+288,Mia,Reed,lelinda@example.net,(963)622-7026x72885,2023-05-11,2,2,False,2024-07-04,Health issues,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,1
+289,Emma,Reed,anna90@example.com,620-734-7175,2024-02-08,2,3,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Pearl District,120,True,0
+290,Emma,Brooks,ann45@example.org,(915)393-9982x45587,2024-12-12,3,1,True,,,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,0
+291,Tyler,Fox,daustin@example.net,(425)769-9611,2023-12-28,2,2,True,,,0.0,Premium Monthly,49.99,0.25,IronFit Eastside,100,False,0
+292,Kevin,Torres,lawrencedelgado@example.net,296-447-5987x622,2023-01-06,1,2,False,2023-04-06,Financial reasons,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+293,Emma,Burns,ebonyshepard@example.net,001-313-326-1117x8006,2023-06-01,1,2,False,2024-03-27,Schedule doesn't work,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,1
+294,Brandon,Reeves,christine16@example.com,234.772.2820,2023-02-13,3,1,False,2024-02-08,Not using enough,0.0,Basic Annual,299.99,0.2,IronFit Downtown,150,True,1
+295,Chris,Burns,michelle78@example.com,+1-872-682-9979,2023-06-23,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+296,Marcus,Fox,timothy31@example.com,256-942-4008x2547,2024-03-26,3,2,True,,,0.0,Basic Annual,299.99,0.2,IronFit Eastside,100,False,0
+297,Emma,Cooper,xevans@example.com,893-808-5368x6632,2023-06-19,4,3,True,,,0.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,0
+298,Marcus,Reed,josehenderson@example.org,994.648.4631x22417,2024-03-13,1,2,True,,,0.0,Basic Monthly,29.99,0.35,IronFit Eastside,100,False,0
+299,Zoe,Reeves,blopez@example.org,2805214427,2023-01-21,4,3,True,,,0.0,Premium Annual,499.99,0.12,IronFit Pearl District,120,True,0
+300,Olivia,Cooper,hernandeztristan@example.com,(947)457-0512x04618,2023-10-15,5,2,True,,,0.0,Student,19.99,0.08,IronFit Eastside,100,False,0
